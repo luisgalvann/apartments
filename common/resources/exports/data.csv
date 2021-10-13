@@ -1,0 +1,36 @@
+,id,customer,agency_name,apartment_name,checkin_date,checkout_date,guests,amount,tax,deposit,notes
+0,1,María Teresa Pascual,Traveling Party,Matisse,2020-01-01,2020-01-04,2,141.95,6.0,47.32,Nulla a vehicula augue
+1,9,Olivia Knight,Traveling Party,Orwell,2020-01-12,2020-01-19,1,392.94,14.0,130.98,"Etiam vehicula tristique purus, eget euismod ante ultrices at"
+2,12,Sofia Vala,Traveling Party,Orwell,2020-02-09,2020-02-11,1,142.96,4.0,47.65,"Nunc erat lorem, efficitur vel diam non, accumsan rhoncus lorem"
+3,16,Federico Rossi,Traveling Party,Tapies,2020-01-22,2020-01-27,4,310.84,10.0,103.61,Pellentesque rutrum lorem sit amet lectus vestibulum vehicula
+4,17,Marina Carmona,Traveling Party,Tapies,2020-01-28,2020-01-31,1,168.75,6.0,56.25,"Donec a porta purus, a dapibus tellus"
+5,34,Maria Nieves Gallego,Traveling Party,Braque,2020-02-09,2020-02-11,6,84.3,4.0,28.1,"Integer ultrices, nibh sed vestibulum consequat, elit massa euismod enim, et rhoncus erat orci et mauris"
+6,35,Harrison Parker,Traveling Party,Picasso,2021-01-05,2021-01-09,3,5.0,2.0,2.0,Todo bien
+7,3,Maryam Mitchell,Places Travel,Matisse,2020-01-14,2020-01-19,1,305.84,10.0,101.95,"In efficitur tempor ipsum, et lobortis nunc laoreet ac"
+8,6,Patrícia Sarmento,Places Travel,Orwell,2020-01-19,2020-01-22,2,132.01,6.0,44.0,Cras ac tristique orci
+9,8,Raphael Jourdain,Places Travel,Orwell,2020-02-01,2020-02-08,2,483.83,14.0,161.28,Vivamus tempor sem in nibh rutrum fermentum
+10,20,Ana María Román,Places Travel,Cézanne,2020-01-24,2020-01-30,2,372.73,12.0,124.24,"Vestibulum ullamcorper orci sem, et euismod lectus efficitur et"
+11,25,Ivy Bailey,Places Travel,Degas,2020-01-13,2020-01-16,3,165.3,6.0,55.1,Sed consequat sed augue eu fermentum
+12,31,Goncalo Alto,Places Travel,Braque,2020-01-17,2020-01-20,4,195.73,6.0,65.24,In hac habitasse platea dictumst
+13,32,Raphael Lefevre,Places Travel,Braque,2020-01-23,2020-01-30,1,378.53,14.0,126.18,Vivamus tempor sem in nibh rutrum fermentum
+14,4,José Ignacio Vargas,Navigator Travel,Matisse,2020-01-23,2020-01-27,2,260.84,8.0,86.95,Proin cursus justo eu justo luctus ornare sed in risus
+15,7,Antonia Vega,Navigator Travel,Orwell,2020-01-23,2020-01-28,4,225.44,10.0,75.15,In hac habitasse platea dictumst
+16,11,Tim Mayer,Navigator Travel,Orwell,2020-01-30,2020-02-06,3,322.8,14.0,107.6,"Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos"
+17,15,Filipe Borges,Navigator Travel,Tapies,2020-01-12,2020-01-17,4,345.77,10.0,115.26,"Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos"
+18,19,Ivy Payne,Navigator Travel,Cézanne,2020-01-15,2020-01-21,3,372.1,12.0,124.03,"Sed molestie, dolor ac posuere consectetur, ligula nisi tincidunt diam, vitae congue arcu velit eget mauris"
+19,22,William Cadieux,Navigator Travel,Da Vinci,2020-01-08,2020-01-10,4,100.53,4.0,33.51,"In aliquam, lorem sit amet pellentesque pharetra, lacus ante dapibus est, non sagittis ante risus quis velit"
+20,26,Noelia Velasco,Navigator Travel,Degas,2020-01-17,2020-01-20,1,198.78,6.0,66.26,Vivamus tempor sem in nibh rutrum fermentum
+21,2,Harrison Parker,New World,Matisse,2020-01-07,2020-01-10,3,135.43,6.0,45.14,"Nunc dui tortor, suscipit et nibh vel, hendrerit sodales lorem"
+22,10,Benjamin Tasse,New World,Orwell,2020-01-20,2020-01-27,2,427.83,14.0,142.61,Vivamus auctor velit sed neque tempor convallis
+23,18,Arnaud Lavigne,New World,Tapies,2020-02-04,2020-02-10,5,384.41,12.0,128.14,Ut eget sagittis sem
+24,28,Franzi Schuster,New World,Degas,2020-01-27,2020-01-31,2,256.17,8.0,85.39,"Mauris eu nunc fermentum, pretium risus at, malesuada augue"
+25,29,Jaciara Fernandes,New World,Grimm,2020-01-19,2020-01-23,2,288.07,8.0,96.02,"Morbi sed lorem molestie, vehicula magna eget, aliquam eros"
+26,5,Amandine Simon,Magic Route,Orwell,2020-01-09,2020-01-14,4,290.78,10.0,96.93,Cras et tortor sed massa sollicitudin cursus
+27,13,Stanley Lloyd,Magic Route,Rafael,2020-01-09,2020-01-13,5,232.16,8.0,77.39,"In aliquam, lorem sit amet pellentesque pharetra, lacus ante dapibus est, non sagittis ante risus quis velit"
+28,14,Darcey Ball,Magic Route,Rafael,2020-01-18,2020-01-20,2,90.78,4.0,30.26,"In quis dui accumsan, convallis risus eget, posuere orci"
+29,21,Nicolò Battaglia,Magic Route,Da Vinci,2020-01-04,2020-01-06,1,102.6,4.0,34.2,"Ut faucibus, elit sit amet posuere congue, leo urna consequat odio, ac elementum purus libero ut est"
+30,23,Darren Henriques,Magic Route,Da Vinci,2020-01-15,2020-01-21,5,438.13,12.0,146.04,Vivamus auctor velit sed neque tempor convallis
+31,24,Juan Francisco Calvo,Magic Route,Da Vinci,2020-01-24,2020-01-31,5,364.54,14.0,121.51,"Donec a porta purus, a dapibus tellus"
+32,27,John Gallo,Magic Route,Degas,2020-01-21,2020-01-25,3,180.08,8.0,60.03,"Sed molestie, dolor ac posuere consectetur, ligula nisi tincidunt diam, vitae congue arcu velit eget mauris"
+33,30,Gabriele Grasso,Magic Route,Grimm,2020-01-26,2020-01-28,3,88.28,4.0,29.43,Interdum et malesuada fames ac ante ipsum primis in faucibus.
+34,33,Francisco Javier Delgado,Magic Route,Braque,2020-02-02,2020-02-07,3,315.11,10.0,105.04,"Nam et urna convallis, molestie dolor vel, viverra neque"

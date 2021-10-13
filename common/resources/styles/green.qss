@@ -1,0 +1,39 @@
+* {
+	font-family: Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+    color: black;
+}
+
+QWidget {
+    background-color: rgb(198, 216, 213);
+}
+
+QAbstractSpinBox, QComboBox, QLineEdit, QTextEdit, QCheckBox {
+    background-color: white; 
+}
+
+QTableWidget, QListWidget, QListView, QTreeWidget, QTreeView, QGraphicsView {
+    selection-color: black;
+    background-color: white;
+    selection-background-color: rgba(0,100,100,90);
+    alternate-background-color: rgba(0,100,100, 0.1);
+}
+
+QHeaderView::section {
+    background-color: rgb(136, 189, 177);
+    border: 1px solid rgba(0,100,100,90);
+}
+
+QScrollBar {
+    background-color: rgb(156, 190, 190);
+}
+
+QMenuBar::item:selected
+{
+    background-color: rgba(0,100,100,90);
+}
+
+QMenu::item:selected
+{
+    background-color: rgba(0,100,100,90);
+}
